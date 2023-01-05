@@ -1,0 +1,7 @@
+image resolution [pixels],norm contrast enhance [microseconds],joint contrast enhance [microseconds]
+128x128,111.5,352.6
+518x512,568.7,2661.6
+1024x1024,1383.6,5438.9
+1920x1086,2372.3,9665.7
+2160x1440,2329.4,10667.4
+3840x2160,2331.5,24117.2

@@ -1,0 +1,1 @@
+resources/low_contrast_moon.bmp
