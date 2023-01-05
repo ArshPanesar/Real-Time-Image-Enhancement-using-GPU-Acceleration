@@ -1,7 +1,0 @@
-image resolution [pixels],gpu time with memory transfer [microseconds],gpu time without memory transfer[microseconds]
-128x128,227,167.2
-512x512,3499.6,2760.3
-1024x1024,14695.9,12076.6
-1920x1086,28217.4,23104
-2160x1440,41618.1,33792.3
-4k,107262,87446.6

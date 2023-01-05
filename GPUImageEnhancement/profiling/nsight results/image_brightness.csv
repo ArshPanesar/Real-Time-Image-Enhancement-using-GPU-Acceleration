@@ -1,7 +1,0 @@
-image resolution [pixels],cpu time [microseconds],gpu time [microseconds]
-128x128,31.8,4.028
-512x512,546.8,25.76
-1024x1024,2439.5,105.237
-1920x1080,4369.1,211.082
-2160x1440,5201.2,315.247
-4k,13598.4,845.574
